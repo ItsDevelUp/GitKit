@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TerminalKit",
+        "repositoryURL": "https://github.com/ItsDevelUp/TerminalKit.git",
+        "state": {
+          "branch": null,
+          "revision": "ba42691f54e774cecc1fa969f358dae89f749ab6",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
